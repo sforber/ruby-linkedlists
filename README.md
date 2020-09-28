@@ -1,1 +1,3 @@
-Ruby Class that defines a linked list and allows the suer to perform many operations on it.
+# Linked Lists
+
+My solution for [The Odin Project's](https://www.theodinproject.com/) [Linked lists project](https://www.theodinproject.com/courses/ruby-programming/lessons/linked-lists).
